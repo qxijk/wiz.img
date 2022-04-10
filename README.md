@@ -1,0 +1,2 @@
+# wiz.img
+wiz.img
